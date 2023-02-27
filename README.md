@@ -16,10 +16,17 @@ Now X Education gets a lot of leads, however, its lead conversion rate is very p
 **Steps to be followed:**
 
 •	Data cleaning and imputing missing values
+
 •	Exploratory Data Analysis
+
 •	Dummy Variable Creation
+
 •	Train-Test split
+
 •	Model Building
+
 •	Model Evaluation
+
 •	Prediction
+
 •	Precision – Recall
